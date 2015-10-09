@@ -1,0 +1,6 @@
+C:\Users\sarim\documents\visual studio 2013\Projects\MyBetOnMbet\MyBetOnMbet\bin\MyBetOnMbet.dll.config
+C:\Users\sarim\documents\visual studio 2013\Projects\MyBetOnMbet\MyBetOnMbet\bin\MyBetOnMbet.dll
+C:\Users\sarim\documents\visual studio 2013\Projects\MyBetOnMbet\MyBetOnMbet\bin\MyBetOnMbet.pdb
+C:\Users\sarim\documents\visual studio 2013\Projects\MyBetOnMbet\MyBetOnMbet\obj\Release\MyBetOnMbet.dll
+C:\Users\sarim\documents\visual studio 2013\Projects\MyBetOnMbet\MyBetOnMbet\obj\Release\MyBetOnMbet.pdb
+C:\Users\sarim\documents\visual studio 2013\Projects\MyBetOnMbet\MyBetOnMbet\obj\Release\MyBetOnMbet.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="pointintimecs-Web.config Connection String" description="pointintimecs Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:s11.winhost.com;Initial Catalog=DB_81945_sarim;User ID=DB_81945_sarim_user;Password=coldplay6360805;Integrated Security=False;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\sarim\\documents\\visual\ studio\ 2013\\Projects\\MyBetOnMbet\\MyBetOnMbet\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='pointintimecs']/@connectionString" />
+  </parameter>
+</parameters>

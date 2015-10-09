@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="apointintime.me/" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="AppHostConfig" match="^MyBetOnMbet$" />
+    <parameterEntry kind="ProviderPath" scope="contentPath" match="^C:\\Users\\sarim\\documents\\visual\ studio\ 2013\\Projects\\MyBetOnMbet\\MyBetOnMbet\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\sarim\\documents\\visual\ studio\ 2013\\Projects\\MyBetOnMbet\\MyBetOnMbet\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="IIS Web Application Pool Name" description="" value="ASP.NET v4.0" tags="">
+    <parameterEntry kind="DeploymentObjectAttribute" scope="application" match="application[@applicationPool='Clr4IntegratedAppPool']/@applicationPool" />
+  </parameter>
+  <parameter name="IisVirtualDirectoryPhysicalPath" description="" value="C:\Users\sarim\documents\visual studio 2013\Projects\MyBetOnMbet\MyBetOnMbet_deploy" tags="PhysicalPath">
+    <parameterEntry kind="DestinationVirtualDirectory" scope=".*" match="^C:\\Users\\sarim\\documents\\visual\ studio\ 2013\\Projects\\MyBetOnMbet\\MyBetOnMbet$" />
+  </parameter>
+  <parameter name="pointintimecs-Web.config Connection String" description="" value="Data Source=tcp:s11.winhost.com;Initial Catalog=DB_81945_sarim;User ID=DB_81945_sarim_user;Password=coldplay6360805;Integrated Security=False;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\sarim\\documents\\visual\ studio\ 2013\\Projects\\MyBetOnMbet\\MyBetOnMbet\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='pointintimecs']/@connectionString" />
+  </parameter>
+</parameters>
